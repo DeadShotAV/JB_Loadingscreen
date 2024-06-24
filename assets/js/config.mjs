@@ -13,8 +13,8 @@ export const config_datas = {
         discord: "DISCORD",
         youtube: "YOUTUBE",
         instagram: "INSTAGRAM",
-        QA_BOX_HEADER: "WHY PEOPLE CHOOSE US?",
-        QA_BOX_ANSWER: "WERE A DAILY RISING FIVEM COMMUNITY! JOIN BSC NOW!", 
+        QA_BOX_HEADER: "Willkommen! Dein char wird in kürze geladen!?",
+        QA_BOX_ANSWER: "Bist du schon auf unseren Discord beigetreten? Falls nein kannst du das hier mit einem klick ändern!C!", 
         authors: {
             name1: "BeansFL",
             name2: "Paul",
